@@ -1,18 +1,19 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7672463&assignment_repo_type=AssignmentRepo)
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# Projeto Diagno Help
+O projeto Diagno Help visa ajudar pessoas com TDAH, ou mesmo aquelas que acreditam que podem sofrer do transtorno, fazemos o pré-diagnóstico, encaminhamento para um profissional próximo, fóruns de discussões de pessoas que sofrem com o transtorno e também dicas que podem fazer arotina de alguém com TDAH ser mais produtivo.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Guilherme Santos
+* Luís Henrique Amaral
+* Henrique Jardim
+* Victor Souza
+* Leonardo Oliveira
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Johnatan Oliveira 
+* Roberto Felipe
 
 ## Instruções de utilização
 
