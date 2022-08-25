@@ -1,0 +1,42 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: T1-G6 - Dificuldade de Identificar pessoas com déficit de atenção (Diagno Help)
+authors:
+  - family-names: Santos
+    given-names: Guilherme
+  - family-names: Jardim Melo
+    given-names: Henrique
+  - family-names: Oliveira da Silva Rodrigues
+    given-names: Leonardo
+  - family-names: Henrique do Amaral Gomes
+    given-names: Luis
+  - family-names: de Souza Friche Passos
+    given-names: Victor
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Augusto Lara Soares
+    given-names: Felipe
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves de Oliveira
+    given-names: Jonathan
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Felipe Dias Ferreira da Rocha
+    given-names: Roberto    
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Assis Alves da Silva
+    given-names: Simone
+
+keywords:
+  - tdah
+  - deficit de atenção
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-t1-g6-pessoas-com-tdah
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14  
